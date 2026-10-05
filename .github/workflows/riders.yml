@@ -1,0 +1,78 @@
+# .github/workflows/riders.yml
+name: Publish riders.json
+
+on:
+  schedule:
+    - cron: "7,37 * * * *"      # twice an hour, off the hour (less queueing)
+  workflow_dispatch:            # lets you run it by hand from the Actions tab
+
+permissions:
+  contents: write               # needed to push the data branch
+
+concurrency:
+  group: riders
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install --quiet requests
+
+      # Pull down whatever is currently published, so the sanity guard in
+      # fetch_riders.py has a baseline to compare against. Missing on the
+      # very first run, which is fine.
+      - name: Fetch currently published riders.json
+        run: |
+          git fetch origin data --depth=1 2>/dev/null || true
+          git show origin/data:riders.json > riders.json 2>/dev/null \
+            && echo "baseline: $(python -c 'import json;print(json.load(open("riders.json"))["total_riders"])') riders" \
+            || echo "no baseline yet (first run)"
+
+      - name: Fetch from Atleta
+        env:
+          ATLETA_TOKEN: ${{ secrets.ATLETA_TOKEN }}
+        run: python fetch_riders.py
+
+      # Publish as a SINGLE commit on the data branch, force-pushed.
+      # The branch therefore never accumulates history, so a rider who asks
+      # to be removed is removed everywhere rather than living on in old
+      # commits of a public repo.
+      - name: Publish to data branch
+        run: |
+          mkdir -p _site
+          cp riders.json _site/riders.json
+          cat > _site/index.html <<'HTML'
+          <!doctype html><meta charset="utf-8"><title>Nordic Chase data</title>
+          <p>Machine-readable start list: <a href="riders.json">riders.json</a></p>
+          HTML
+          cd _site
+          git init -q
+          git checkout -q -b data
+          git add -A
+          git -c user.email="actions@github.com" \
+              -c user.name="Nordic Chase bot" \
+              commit -q -m "riders.json $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push -q -f \
+            "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" \
+            data
+
+      - name: Summary
+        run: |
+          python - <<'PY' >> $GITHUB_STEP_SUMMARY
+          import json
+          d = json.load(open("riders.json"))
+          print(f"## {d['total_riders']} riders / {d['total_registrations']} registrations\n")
+          print(f"Generated `{d['generated_at']}`\n")
+          print("| Edition | Riders |\n|---|---|")
+          for k, v in sorted(d["per_edition"].items()):
+              print(f"| {k} | {v} |")
+          if d.get("duplicate_registrations"):
+              print(f"\n**{d['duplicate_registrations']} duplicate registrations — check Atleta.**")
+          PY
