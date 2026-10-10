@@ -1,0 +1,4936 @@
+{
+ "generated_at": "2026-10-10T21:32:51Z",
+ "total_riders": 286,
+ "total_registrations": 295,
+ "duplicate_registrations": 1,
+ "per_edition": {
+  "Chase 1 BER-CPH Gravel": 39,
+  "Chase 1 BER-CPH Road": 47,
+  "Chase 2 CPH-OSL Gravel": 55,
+  "Chase 2 CPH-OSL Road": 45,
+  "Chase 3 AMS-CPH Road": 34,
+  "Chase 4 CPH-STO Gravel": 52,
+  "Chase 4 CPH-STO Road": 22
+ },
+ "proxy_purchases": 3,
+ "riders": [
+  {
+   "name": "Bartosz Kaminski",
+   "first": "Bartosz",
+   "last": "Kaminski",
+   "nationality": "PL",
+   "nationality_ioc": "POL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    },
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 2
+  },
+  {
+   "name": "Eike Neumann",
+   "first": "Eike",
+   "last": "Neumann",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    },
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 2
+  },
+  {
+   "name": "Jan Kerpen",
+   "first": "Jan",
+   "last": "Kerpen",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    },
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 2
+  },
+  {
+   "name": "Lancelot Pesch",
+   "first": "Lancelot",
+   "last": "Pesch",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    },
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 2
+  },
+  {
+   "name": "Mark Ascroft",
+   "first": "Mark",
+   "last": "Ascroft",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    },
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 2
+  },
+  {
+   "name": "OnYing Chan",
+   "first": "OnYing",
+   "last": "Chan",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    },
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 2
+  },
+  {
+   "name": "Pawel Lenarczyk",
+   "first": "Pawel",
+   "last": "Lenarczyk",
+   "nationality": "SE",
+   "nationality_ioc": "SWE",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    },
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 2
+  },
+  {
+   "name": "Tomas Rozman",
+   "first": "Tomas",
+   "last": "Rozman",
+   "nationality": "CZ",
+   "nationality_ioc": "CZE",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    },
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 2
+  },
+  {
+   "name": "Agnes Szczesny",
+   "first": "Agnes",
+   "last": "Szczesny",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Aleksander Svensen",
+   "first": "Aleksander",
+   "last": "Svensen",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Alex Toghill",
+   "first": "Alex",
+   "last": "Toghill",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Alexander Sárközi",
+   "first": "Alexander",
+   "last": "Sárközi",
+   "nationality": "HU",
+   "nationality_ioc": "HUN",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Andi Schnelli",
+   "first": "Andi",
+   "last": "Schnelli",
+   "nationality": "CH",
+   "nationality_ioc": "SUI",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Andrea Lindner",
+   "first": "Andrea",
+   "last": "Lindner",
+   "nationality": "AT",
+   "nationality_ioc": "AUT",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Andreas Trümper",
+   "first": "Andreas",
+   "last": "Trümper",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Anika Paulus",
+   "first": "Anika",
+   "last": "Paulus",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Anna-Lena Starbatty",
+   "first": "Anna-Lena",
+   "last": "Starbatty",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Anselm Ossenschmidt",
+   "first": "Anselm",
+   "last": "Ossenschmidt",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Anson Chan",
+   "first": "Anson",
+   "last": "Chan",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Anton Aleksandorv",
+   "first": "Anton",
+   "last": "Aleksandorv",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Anton Bex",
+   "first": "Anton",
+   "last": "Bex",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Athina Weber",
+   "first": "Athina",
+   "last": "Weber",
+   "nationality": "CH",
+   "nationality_ioc": "SUI",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Audran Guillaume",
+   "first": "Audran",
+   "last": "Guillaume",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Aymeric Renoud",
+   "first": "Aymeric",
+   "last": "Renoud",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Ben Eric Joachim",
+   "first": "Ben Eric",
+   "last": "Joachim",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Benno Kusche",
+   "first": "Benno",
+   "last": "Kusche",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Berber Heerschop",
+   "first": "Berber",
+   "last": "Heerschop",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Bern Valarino",
+   "first": "Bern",
+   "last": "Valarino",
+   "nationality": "GI",
+   "nationality_ioc": null,
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Bert De Keyser",
+   "first": "Bert",
+   "last": "De Keyser",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Bianca Datola",
+   "first": "Bianca",
+   "last": "Datola",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "BJörn Bauer",
+   "first": "BJörn",
+   "last": "Bauer",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Brien Guillaume",
+   "first": "Brien",
+   "last": "Guillaume",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Bryn Jefferies",
+   "first": "Bryn",
+   "last": "Jefferies",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Burkhard Büsing",
+   "first": "Burkhard",
+   "last": "Büsing",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Carsten Pottharst",
+   "first": "Carsten",
+   "last": "Pottharst",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Cédric Heckly",
+   "first": "Cédric",
+   "last": "Heckly",
+   "nationality": "CH",
+   "nationality_ioc": "SUI",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Charles Solberg",
+   "first": "Charles",
+   "last": "Solberg",
+   "nationality": "CA",
+   "nationality_ioc": "CAN",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Christian Jepsen",
+   "first": "Christian",
+   "last": "Jepsen",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Christian Lampe",
+   "first": "Christian",
+   "last": "Lampe",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Christian Olesen",
+   "first": "Christian",
+   "last": "Olesen",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Christian Pötzsch",
+   "first": "Christian",
+   "last": "Pötzsch",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Christianne Luijten",
+   "first": "Christianne",
+   "last": "Luijten",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Christina Krafczyk",
+   "first": "Christina",
+   "last": "Krafczyk",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Christoffer Boe",
+   "first": "Christoffer",
+   "last": "Boe",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Christoffer Jansson",
+   "first": "Christoffer",
+   "last": "Jansson",
+   "nationality": "SE",
+   "nationality_ioc": "SWE",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Claas Junge",
+   "first": "Claas",
+   "last": "Junge",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Claire Brook",
+   "first": "Claire",
+   "last": "Brook",
+   "nationality": "US",
+   "nationality_ioc": "USA",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Claus Møller",
+   "first": "Claus",
+   "last": "Møller",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Colin Stratton",
+   "first": "Colin",
+   "last": "Stratton",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Colleen McCaskell",
+   "first": "Colleen",
+   "last": "McCaskell",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Craig Brown",
+   "first": "Craig",
+   "last": "Brown",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Daniela Barth-Granditsch",
+   "first": "Daniela",
+   "last": "Barth-Granditsch",
+   "nationality": "AT",
+   "nationality_ioc": "AUT",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Daniele Tenaglia",
+   "first": "Daniele",
+   "last": "Tenaglia",
+   "nationality": "IT",
+   "nationality_ioc": "ITA",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Dave Depetter",
+   "first": "Dave",
+   "last": "Depetter",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "David Minguez",
+   "first": "David",
+   "last": "Minguez",
+   "nationality": "ES",
+   "nationality_ioc": "ESP",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "David Pritchard",
+   "first": "David",
+   "last": "Pritchard",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "David Yoder",
+   "first": "David",
+   "last": "Yoder",
+   "nationality": "US",
+   "nationality_ioc": "USA",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Declan Walsh",
+   "first": "Declan",
+   "last": "Walsh",
+   "nationality": "IE",
+   "nationality_ioc": "IRL",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Denies Du Mon",
+   "first": "Denies",
+   "last": "Du Mon",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Dominik Paul",
+   "first": "Dominik",
+   "last": "Paul",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Dorothea Portner",
+   "first": "Dorothea",
+   "last": "Portner",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Duarte Pais",
+   "first": "Duarte",
+   "last": "Pais",
+   "nationality": "PT",
+   "nationality_ioc": "POR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Dwi Aji Kurnia Putra",
+   "first": "Dwi Aji Kurnia",
+   "last": "Putra",
+   "nationality": "ID",
+   "nationality_ioc": "INA",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Elias Tinchon",
+   "first": "Elias",
+   "last": "Tinchon",
+   "nationality": "AT",
+   "nationality_ioc": "AUT",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Elisabeth Barth-Granditsch",
+   "first": "Elisabeth",
+   "last": "Barth-Granditsch",
+   "nationality": "AT",
+   "nationality_ioc": "AUT",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Emile Aerts",
+   "first": "Emile",
+   "last": "Aerts",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Emma Harridge",
+   "first": "Emma",
+   "last": "Harridge",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Emma Malmberg",
+   "first": "Emma",
+   "last": "Malmberg",
+   "nationality": "SE",
+   "nationality_ioc": "SWE",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Emma Young",
+   "first": "Emma",
+   "last": "Young",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Eric Fleiter",
+   "first": "Eric",
+   "last": "Fleiter",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Erik Houge",
+   "first": "Erik",
+   "last": "Houge",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Eva Fraedrich",
+   "first": "Eva",
+   "last": "Fraedrich",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Fabian Hain",
+   "first": "Fabian",
+   "last": "Hain",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Fabian Heinzer",
+   "first": "Fabian",
+   "last": "Heinzer",
+   "nationality": "CH",
+   "nationality_ioc": "SUI",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Fabian Schönenberg",
+   "first": "Fabian",
+   "last": "Schönenberg",
+   "nationality": "CH",
+   "nationality_ioc": "SUI",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Felix Naumann",
+   "first": "Felix",
+   "last": "Naumann",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Felix Ritter",
+   "first": "Felix",
+   "last": "Ritter",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Felix Saalfrank",
+   "first": "Felix",
+   "last": "Saalfrank",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Florian Kortmann",
+   "first": "Florian",
+   "last": "Kortmann",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Florian Lüder",
+   "first": "Florian",
+   "last": "Lüder",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Florian Maaß",
+   "first": "Florian",
+   "last": "Maaß",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Florian Seifert",
+   "first": "Florian",
+   "last": "Seifert",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Florian Walter",
+   "first": "Florian",
+   "last": "Walter",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Fred Whitfield",
+   "first": "Fred",
+   "last": "Whitfield",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Fredrik Johnsen",
+   "first": "Fredrik",
+   "last": "Johnsen",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Fredrik Mandt",
+   "first": "Fredrik",
+   "last": "Mandt",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Guy CluttonDiesen",
+   "first": "Guy",
+   "last": "CluttonDiesen",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Hajo Ammermann",
+   "first": "Hajo",
+   "last": "Ammermann",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Hanne Gro Korsvold",
+   "first": "Hanne Gro",
+   "last": "Korsvold",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Hannes Henze",
+   "first": "Hannes",
+   "last": "Henze",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Hans Are Ovanger",
+   "first": "Hans Are",
+   "last": "Ovanger",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Hårek Stranheim",
+   "first": "Hårek",
+   "last": "Stranheim",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Hauke Block",
+   "first": "Hauke",
+   "last": "Block",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Helen Collard",
+   "first": "Helen",
+   "last": "Collard",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Hemmo Bosscher",
+   "first": "Hemmo",
+   "last": "Bosscher",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Hendrik Wedemeyer-Buick",
+   "first": "Hendrik",
+   "last": "Wedemeyer-Buick",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Henri Rinck",
+   "first": "Henri",
+   "last": "Rinck",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Hugh Cam",
+   "first": "Hugh",
+   "last": "Cam",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Hugo Viallon",
+   "first": "Hugo",
+   "last": "Viallon",
+   "nationality": "FR",
+   "nationality_ioc": "FRA",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Ian Scott",
+   "first": "Ian",
+   "last": "Scott",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Ingvild Bøe",
+   "first": "Ingvild",
+   "last": "Bøe",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jacopo Bufacchi",
+   "first": "Jacopo",
+   "last": "Bufacchi",
+   "nationality": "IT",
+   "nationality_ioc": "ITA",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jaik Gladstone",
+   "first": "Jaik",
+   "last": "Gladstone",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jan Bruhnsen",
+   "first": "Jan",
+   "last": "Bruhnsen",
+   "nationality": "CH",
+   "nationality_ioc": "SUI",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jan Himpe",
+   "first": "Jan",
+   "last": "Himpe",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jan-Philipp Igla",
+   "first": "Jan-Philipp",
+   "last": "Igla",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jan Philipp Münnich",
+   "first": "Jan Philipp",
+   "last": "Münnich",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jann Ole Golzio",
+   "first": "Jann Ole",
+   "last": "Golzio",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jannik Ploj",
+   "first": "Jannik",
+   "last": "Ploj",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jelle Hanseeuw",
+   "first": "Jelle",
+   "last": "Hanseeuw",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jens Bontinck",
+   "first": "Jens",
+   "last": "Bontinck",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jens Brock Johansen",
+   "first": "Jens Brock",
+   "last": "Johansen",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jens Kruse",
+   "first": "Jens",
+   "last": "Kruse",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jens Lüdtke",
+   "first": "Jens",
+   "last": "Lüdtke",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jens Wirf",
+   "first": "Jens",
+   "last": "Wirf",
+   "nationality": "SE",
+   "nationality_ioc": "SWE",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Joachim Hejslet",
+   "first": "Joachim",
+   "last": "Hejslet",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Johan Peerbolte",
+   "first": "Johan",
+   "last": "Peerbolte",
+   "nationality": "FR",
+   "nationality_ioc": "FRA",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Johannes Quinterio",
+   "first": "Johannes",
+   "last": "Quinterio",
+   "nationality": "AT",
+   "nationality_ioc": "AUT",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Johannes Reding",
+   "first": "Johannes",
+   "last": "Reding",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Johannes Uppelschoten",
+   "first": "Johannes",
+   "last": "Uppelschoten",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jonas Anguria",
+   "first": "Jonas",
+   "last": "Anguria",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jonas Echterhoff",
+   "first": "Jonas",
+   "last": "Echterhoff",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jonas Lepercq",
+   "first": "Jonas",
+   "last": "Lepercq",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jonas Ruge",
+   "first": "Jonas",
+   "last": "Ruge",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jonas Schröder",
+   "first": "Jonas",
+   "last": "Schröder",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jonas Vienhues",
+   "first": "Jonas",
+   "last": "Vienhues",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jonas Wiendl",
+   "first": "Jonas",
+   "last": "Wiendl",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jonathan Bryan",
+   "first": "Jonathan",
+   "last": "Bryan",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Joppe Dierckx",
+   "first": "Joppe",
+   "last": "Dierckx",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Joram van der Velden",
+   "first": "Joram",
+   "last": "van der Velden",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Josh Steed",
+   "first": "Josh",
+   "last": "Steed",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Judith Bauer",
+   "first": "Judith",
+   "last": "Bauer",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jules Ledegen",
+   "first": "Jules",
+   "last": "Ledegen",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Julian Kling",
+   "first": "Julian",
+   "last": "Kling",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Jurre Vijn",
+   "first": "Jurre",
+   "last": "Vijn",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Justin Beard",
+   "first": "Justin",
+   "last": "Beard",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Justin Britton",
+   "first": "Justin",
+   "last": "Britton",
+   "nationality": "US",
+   "nationality_ioc": "USA",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Karel Brockhoven",
+   "first": "Karel",
+   "last": "Brockhoven",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Karl Oskar Hareide",
+   "first": "Karl Oskar",
+   "last": "Hareide",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Karl Seidler",
+   "first": "Karl",
+   "last": "Seidler",
+   "nationality": "CH",
+   "nationality_ioc": "SUI",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Kasper Crolla",
+   "first": "Kasper",
+   "last": "Crolla",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Kina Höglund",
+   "first": "Kina",
+   "last": "Höglund",
+   "nationality": "SE",
+   "nationality_ioc": "SWE",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Kobe Van Landeghem",
+   "first": "Kobe",
+   "last": "Van Landeghem",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Kristian Waalen",
+   "first": "Kristian",
+   "last": "Waalen",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Kristoffer saunte Saunte",
+   "first": "Kristoffer saunte",
+   "last": "Saunte",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Lars Büngen",
+   "first": "Lars",
+   "last": "Büngen",
+   "nationality": "CH",
+   "nationality_ioc": "SUI",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Lars Jørgensen",
+   "first": "Lars",
+   "last": "Jørgensen",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Lars Lundsgaard",
+   "first": "Lars",
+   "last": "Lundsgaard",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Lea Zimmer",
+   "first": "Lea",
+   "last": "Zimmer",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Lena Isren",
+   "first": "Lena",
+   "last": "Isren",
+   "nationality": "SE",
+   "nationality_ioc": "SWE",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Lennart Bunnenberg",
+   "first": "Lennart",
+   "last": "Bunnenberg",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Lennart Jekel",
+   "first": "Lennart",
+   "last": "Jekel",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Lennart Rösemeier",
+   "first": "Lennart",
+   "last": "Rösemeier",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Leon Brammer",
+   "first": "Leon",
+   "last": "Brammer",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Leonie Rybol",
+   "first": "Leonie",
+   "last": "Rybol",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Line Christensen",
+   "first": "Line",
+   "last": "Christensen",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Lise Aulnette-Turpin",
+   "first": "Lise",
+   "last": "Aulnette-Turpin",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Lizelle Kemp",
+   "first": "Lizelle",
+   "last": "Kemp",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Lizet Ramírez",
+   "first": "Lizet",
+   "last": "Ramírez",
+   "nationality": "MX",
+   "nationality_ioc": "MEX",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Louise Humphreys",
+   "first": "Louise",
+   "last": "Humphreys",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Louisiane Levaque",
+   "first": "Louisiane",
+   "last": "Levaque",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Lukas Hoffbauer",
+   "first": "Lukas",
+   "last": "Hoffbauer",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Lukas Schlachter",
+   "first": "Lukas",
+   "last": "Schlachter",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Mackenzie Barker",
+   "first": "Mackenzie",
+   "last": "Barker",
+   "nationality": "CA",
+   "nationality_ioc": "CAN",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Madita Dembowski",
+   "first": "Madita",
+   "last": "Dembowski",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Manon Maria Lankkamp",
+   "first": "Manon Maria",
+   "last": "Lankkamp",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Manuel Ravnik",
+   "first": "Manuel",
+   "last": "Ravnik",
+   "nationality": "AT",
+   "nationality_ioc": "AUT",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Mara Petersen",
+   "first": "Mara",
+   "last": "Petersen",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Marcel Benoit",
+   "first": "Marcel",
+   "last": "Benoit",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Marcel Meyer",
+   "first": "Marcel",
+   "last": "Meyer",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Marcell Kálmán",
+   "first": "Marcell",
+   "last": "Kálmán",
+   "nationality": "HU",
+   "nationality_ioc": "HUN",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Marco Goffi",
+   "first": "Marco",
+   "last": "Goffi",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Marijn De Granada",
+   "first": "Marijn",
+   "last": "De Granada",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Mark Jansen",
+   "first": "Mark",
+   "last": "Jansen",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Marten Giese",
+   "first": "Marten",
+   "last": "Giese",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Martijn Mertens",
+   "first": "Martijn",
+   "last": "Mertens",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Martin Dalley",
+   "first": "Martin",
+   "last": "Dalley",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Martin Haußmann",
+   "first": "Martin",
+   "last": "Haußmann",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Martin Jaenicke",
+   "first": "Martin",
+   "last": "Jaenicke",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Martin Kowol",
+   "first": "Martin",
+   "last": "Kowol",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Martin Vinten",
+   "first": "Martin",
+   "last": "Vinten",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Marvin Mohr",
+   "first": "Marvin",
+   "last": "Mohr",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Mathias May",
+   "first": "Mathias",
+   "last": "May",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Mats Milbrandt",
+   "first": "Mats",
+   "last": "Milbrandt",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Matt Slater",
+   "first": "Matt",
+   "last": "Slater",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Max Seidel",
+   "first": "Max",
+   "last": "Seidel",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Maximilian Abbe",
+   "first": "Maximilian",
+   "last": "Abbe",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Maximilian Sprung",
+   "first": "Maximilian",
+   "last": "Sprung",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Meik Hillenbrand",
+   "first": "Meik",
+   "last": "Hillenbrand",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Merwin Zeegers",
+   "first": "Merwin",
+   "last": "Zeegers",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Michael Dunn",
+   "first": "Michael",
+   "last": "Dunn",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Michael Kreft",
+   "first": "Michael",
+   "last": "Kreft",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Michael Pohlmann",
+   "first": "Michael",
+   "last": "Pohlmann",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Michael Vrijs",
+   "first": "Michael",
+   "last": "Vrijs",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Miguel Cuellar",
+   "first": "Miguel",
+   "last": "Cuellar",
+   "nationality": "MX",
+   "nationality_ioc": "MEX",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Mitchell Ringuet",
+   "first": "Mitchell",
+   "last": "Ringuet",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Neele Heilemann",
+   "first": "Neele",
+   "last": "Heilemann",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Nelly Jekel",
+   "first": "Nelly",
+   "last": "Jekel",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Nick Roberts",
+   "first": "Nick",
+   "last": "Roberts",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Nicolai Henriksen",
+   "first": "Nicolai",
+   "last": "Henriksen",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Nicolai Randrup",
+   "first": "Nicolai",
+   "last": "Randrup",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Nicole Rochon",
+   "first": "Nicole",
+   "last": "Rochon",
+   "nationality": "US",
+   "nationality_ioc": "USA",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Niels Piecha",
+   "first": "Niels",
+   "last": "Piecha",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Niklas Waldner",
+   "first": "Niklas",
+   "last": "Waldner",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Nikolas Klemm",
+   "first": "Nikolas",
+   "last": "Klemm",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Nils Hansen",
+   "first": "Nils",
+   "last": "Hansen",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Nina Warburton",
+   "first": "Nina",
+   "last": "Warburton",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Noé Lagriffoul",
+   "first": "Noé",
+   "last": "Lagriffoul",
+   "nationality": "FR",
+   "nationality_ioc": "FRA",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Olaf Kübler",
+   "first": "Olaf",
+   "last": "Kübler",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Ole Asbjørn Solberg",
+   "first": "Ole Asbjørn",
+   "last": "Solberg",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Ole Müller",
+   "first": "Ole",
+   "last": "Müller",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Olivier Sels",
+   "first": "Olivier",
+   "last": "Sels",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Owen Morgan",
+   "first": "Owen",
+   "last": "Morgan",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Patrick Majerle",
+   "first": "Patrick",
+   "last": "Majerle",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Patrick Weis",
+   "first": "Patrick",
+   "last": "Weis",
+   "nationality": "LU",
+   "nationality_ioc": "LUX",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Pau Abella Molina",
+   "first": "Pau",
+   "last": "Abella Molina",
+   "nationality": "ES",
+   "nationality_ioc": "ESP",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Pelle Erik Viana Lindén",
+   "first": "Pelle Erik",
+   "last": "Viana Lindén",
+   "nationality": "SE",
+   "nationality_ioc": "SWE",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Peter Poulsen",
+   "first": "Peter",
+   "last": "Poulsen",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Peter Ruette",
+   "first": "Peter",
+   "last": "Ruette",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Petra Opic",
+   "first": "Petra",
+   "last": "Opic",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Philipp Schäfer",
+   "first": "Philipp",
+   "last": "Schäfer",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Philippe Govaert",
+   "first": "Philippe",
+   "last": "Govaert",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Phillip Kaufmann",
+   "first": "Phillip",
+   "last": "Kaufmann",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Pierre Keup",
+   "first": "Pierre",
+   "last": "Keup",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Pieterjan De Schrijver",
+   "first": "Pieterjan",
+   "last": "De Schrijver",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Rachel White",
+   "first": "Rachel",
+   "last": "White",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Radoslav Darula",
+   "first": "Radoslav",
+   "last": "Darula",
+   "nationality": "SK",
+   "nationality_ioc": "SVK",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Ria Wilken",
+   "first": "Ria",
+   "last": "Wilken",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Robin Gulseth",
+   "first": "Robin",
+   "last": "Gulseth",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Robin Hahne",
+   "first": "Robin",
+   "last": "Hahne",
+   "nationality": "CH",
+   "nationality_ioc": "SUI",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Roelof Daniel van Wyk",
+   "first": "Roelof Daniel",
+   "last": "van Wyk",
+   "nationality": "ZA",
+   "nationality_ioc": "RSA",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Sabrina Luttenberger",
+   "first": "Sabrina",
+   "last": "Luttenberger",
+   "nationality": "AT",
+   "nationality_ioc": "AUT",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Sari Casaer",
+   "first": "Sari",
+   "last": "Casaer",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Sascha Dobrowohl",
+   "first": "Sascha",
+   "last": "Dobrowohl",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Sean Cam",
+   "first": "Sean",
+   "last": "Cam",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Sebastian Klintzsch",
+   "first": "Sebastian",
+   "last": "Klintzsch",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Sébastien Greffe",
+   "first": "Sébastien",
+   "last": "Greffe",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Selina Kasper",
+   "first": "Selina",
+   "last": "Kasper",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Silas Tavs Ravn",
+   "first": "Silas Tavs",
+   "last": "Ravn",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Simon Colton",
+   "first": "Simon",
+   "last": "Colton",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Simon Kerstan",
+   "first": "Simon",
+   "last": "Kerstan",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Simon Klages-Schnibbe",
+   "first": "Simon",
+   "last": "Klages-Schnibbe",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Simon Koers",
+   "first": "Simon",
+   "last": "Koers",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Simon Martin",
+   "first": "Simon",
+   "last": "Martin",
+   "nationality": "CH",
+   "nationality_ioc": "SUI",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Simon Schmitz",
+   "first": "Simon",
+   "last": "Schmitz",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Simon Stahl",
+   "first": "Simon",
+   "last": "Stahl",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Simon Witt Østengaard",
+   "first": "Simon Witt",
+   "last": "Østengaard",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Sofie Grande y Rodriguez",
+   "first": "Sofie",
+   "last": "Grande y Rodriguez",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Sonny Hellstrand",
+   "first": "Sonny",
+   "last": "Hellstrand",
+   "nationality": "SE",
+   "nationality_ioc": "SWE",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Sophie Beckmann",
+   "first": "Sophie",
+   "last": "Beckmann",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Stef Canters",
+   "first": "Stef",
+   "last": "Canters",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Stefan Landgren",
+   "first": "Stefan",
+   "last": "Landgren",
+   "nationality": "SE",
+   "nationality_ioc": "SWE",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Steffen Rasmussen",
+   "first": "Steffen",
+   "last": "Rasmussen",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Steffi Jäkel",
+   "first": "Steffi",
+   "last": "Jäkel",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Steffi Roetger",
+   "first": "Steffi",
+   "last": "Roetger",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Steinar Jansen",
+   "first": "Steinar",
+   "last": "Jansen",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Svein Roar Kvåle",
+   "first": "Svein Roar",
+   "last": "Kvåle",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Sven Rhenisch",
+   "first": "Sven",
+   "last": "Rhenisch",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Tenielle Dunkley",
+   "first": "Tenielle",
+   "last": "Dunkley",
+   "nationality": "AU",
+   "nationality_ioc": "AUS",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Theo Hatcher",
+   "first": "Theo",
+   "last": "Hatcher",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Theresa Lindemann",
+   "first": "Theresa",
+   "last": "Lindemann",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Therese Johansson",
+   "first": "Therese",
+   "last": "Johansson",
+   "nationality": "SE",
+   "nationality_ioc": "SWE",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Thibaut Reichlin",
+   "first": "Thibaut",
+   "last": "Reichlin",
+   "nationality": "CH",
+   "nationality_ioc": "SUI",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Thomas Schmid",
+   "first": "Thomas",
+   "last": "Schmid",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Thorben Willemsen",
+   "first": "Thorben",
+   "last": "Willemsen",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Thorsten Borgers",
+   "first": "Thorsten",
+   "last": "Borgers",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Tijmen Lind",
+   "first": "Tijmen",
+   "last": "Lind",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Tina Heinzer",
+   "first": "Tina",
+   "last": "Heinzer",
+   "nationality": "CH",
+   "nationality_ioc": "SUI",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 1 BER-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Tjeerd Bos",
+   "first": "Tjeerd",
+   "last": "Bos",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Tobias Christensen",
+   "first": "Tobias",
+   "last": "Christensen",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Tobias Gabler",
+   "first": "Tobias",
+   "last": "Gabler",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Tom Briers",
+   "first": "Tom",
+   "last": "Briers",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Tom Claes",
+   "first": "Tom",
+   "last": "Claes",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Tom Pailing",
+   "first": "Tom",
+   "last": "Pailing",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Tomáš Žižlavský",
+   "first": "Tomáš",
+   "last": "Žižlavský",
+   "nationality": "CZ",
+   "nationality_ioc": "CZE",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Tor Erik Tollefsen",
+   "first": "Tor Erik",
+   "last": "Tollefsen",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Ulrich Hundhausen",
+   "first": "Ulrich",
+   "last": "Hundhausen",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Victor Bergendorff",
+   "first": "Victor",
+   "last": "Bergendorff",
+   "nationality": "DK",
+   "nationality_ioc": "DEN",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Gravel",
+     "label": "Chase 4 CPH-STO Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Wojciech Lodziana",
+   "first": "Wojciech",
+   "last": "Lodziana",
+   "nationality": "PL",
+   "nationality_ioc": "POL",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Wout Donné",
+   "first": "Wout",
+   "last": "Donné",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 4,
+     "code": "CPH-STO",
+     "route": "Copenhagen to Stockholm",
+     "discipline": "Road",
+     "label": "Chase 4 CPH-STO Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Wouter Kuijk",
+   "first": "Wouter",
+   "last": "Kuijk",
+   "nationality": "BE",
+   "nationality_ioc": "BEL",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Road",
+     "label": "Chase 2 CPH-OSL Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Yannick Kasperczak",
+   "first": "Yannick",
+   "last": "Kasperczak",
+   "nationality": "DE",
+   "nationality_ioc": "GER",
+   "races": [
+    {
+     "chase": 1,
+     "code": "BER-CPH",
+     "route": "Berlin to Copenhagen",
+     "discipline": "Gravel",
+     "label": "Chase 1 BER-CPH Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Yannick Langerhuizen",
+   "first": "Yannick",
+   "last": "Langerhuizen",
+   "nationality": "NL",
+   "nationality_ioc": "NED",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Øyvind Joramo",
+   "first": "Øyvind",
+   "last": "Joramo",
+   "nationality": "NO",
+   "nationality_ioc": "NOR",
+   "races": [
+    {
+     "chase": 2,
+     "code": "CPH-OSL",
+     "route": "Copenhagen to Oslo",
+     "discipline": "Gravel",
+     "label": "Chase 2 CPH-OSL Gravel"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Zoe Westerman",
+   "first": "Zoe",
+   "last": "Westerman",
+   "nationality": "GB",
+   "nationality_ioc": "GBR",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  },
+  {
+   "name": "Zsombor Drajko",
+   "first": "Zsombor",
+   "last": "Drajko",
+   "nationality": "HU",
+   "nationality_ioc": "HUN",
+   "races": [
+    {
+     "chase": 3,
+     "code": "AMS-CPH",
+     "route": "Amsterdam to Copenhagen",
+     "discipline": "Road",
+     "label": "Chase 3 AMS-CPH Road"
+    }
+   ],
+   "race_count": 1
+  }
+ ]
+}
